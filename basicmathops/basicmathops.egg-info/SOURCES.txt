@@ -1,0 +1,7 @@
+setup.py
+basicmathops/__init__.py
+basicmathops/operations.py
+basicmathops.egg-info/PKG-INFO
+basicmathops.egg-info/SOURCES.txt
+basicmathops.egg-info/dependency_links.txt
+basicmathops.egg-info/top_level.txt
